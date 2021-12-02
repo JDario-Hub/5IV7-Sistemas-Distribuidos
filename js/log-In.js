@@ -6,4 +6,7 @@ function verificar(){
 
     const password = /^([a-zñ]+([]*[a-zñ]?['-]?[a-zñ?]+)*)$/;
     
+    return{
+        
+    }
 }
